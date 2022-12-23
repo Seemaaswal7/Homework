@@ -1,10 +1,12 @@
 # Module 1 Challenge
 ## Overview and Origin
+![logo](https://github.com/Seemaaswal7/Homework/blob/main/Screenshot%202022-12-22%20202904.png)
 
 * Name of company
   
 **Digit.Co**
-![logo](Screenshot 2022-12-22 202904.png)
+[https://digit.co/]
+
  
 * When was the company incorporated?
 
@@ -72,6 +74,7 @@
 * What has been the business impact of this company so far?
   
 **Leaving the the customer with more saving and the average Digit customer earns around $50,000 per year and is saving around $2,500 per year.**
+[https://digit.co/]
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
   
@@ -103,5 +106,8 @@
 
 
 
-## References - https://www.fastcompany.com/40533914/digit-with-1-billion-saved-turns-attention-to-consumer-debt
+## References 
+
+https://www.fastcompany.com/40533914/digit-with-1-billion-saved-turns-attention-to-consumer-debt
+
 https://digit.co/
