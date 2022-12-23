@@ -74,7 +74,7 @@
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
   
-**Dollar per customer and initially it was free now they started charging fee $2.99. Add on products can be sold**
+**Dollar per customer and initially it was free now they started charging fee $5. Add on products can be sold**
 
 * How is your company performing relative to competitors in the same domain?
 
