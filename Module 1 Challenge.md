@@ -19,21 +19,21 @@
 
 * How is the company funded? How much funding have they received?
  
-**Digit has raised a total of $66.3M in funding over 6 rounds. Their latest funding was raised on Sep 30, 2019 from a Series C round.Digit is funded by 25 investors. Restive and General Catalyst are the most recent investors.Digit has a post-money valuation in the range of $100M to $500M as of Oct 2, 2019, according to PrivCo**
+**Digit is funded by 25 investors and  has raised a total of $66.3M in funding over 6 rounds.The latest funding was raised on Sep 30, 2019 from a Series C round. Restive and General Catalyst are the most recent investors.**
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
 
-**Automatic saving and Digit works by reading your linked bank account to intelligently and safely save money for you automatically. It offers a financial mobile application that analyzes a user's spending habits and saves money automatically for them. The mission is to make financial health efforrtless**
+**The mission is to make financial health efforrtless. Automatic saving and they work by reading individual's linked bank accountintelligently and safely to save money for you automatically. It offers a financial mobile application that analyzes a user's spending habits and saves money automatically for them.**
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
  
-**Indivduals with checking and savings accounts**
+**Indivduals/any Customer with external checking accounts**
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
  
-**Invest or save for retirement, so if you want help working toward those goals, Digit is the way to go.**
+**Invest or save for retirement, so if you want help working toward those goals.**
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
