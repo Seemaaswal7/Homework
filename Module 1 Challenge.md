@@ -4,7 +4,7 @@
 * Name of company
   
 **Digit.Co**
-![logo]()
+![logo](Screenshot 2022-12-22 202904.png)
  
 * When was the company incorporated?
 
