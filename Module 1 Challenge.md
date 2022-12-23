@@ -38,6 +38,13 @@
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 **Machine learning**
+**Digit looks at a few things when it determines when and how much to save for you:
+  •	Linked bank account balance
+  •	Upcoming income (paychecks or predicted irregular income)
+  •	Upcoming bills
+  •	Recent spending
+  •	Any savings controls that you set (Low Balance Protection, Safe Saving Level)**
+
 
 ## Landscape:
 
