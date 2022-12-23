@@ -38,6 +38,7 @@
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 **Machine learning**
+
 **Digit looks at a few things when it determines when and how much to save for you:
   •	Linked bank account balance
   •	Upcoming income (paychecks or predicted irregular income)
@@ -77,6 +78,9 @@
 
 * How is your company performing relative to competitors in the same domain?
 
+**Chime pays better rate but but doesn't help with investing or retirement savings.**
+
+**Acorns is a top option for automatic investments but doesn't help with savings.**
 
 ## Recommendations
 
