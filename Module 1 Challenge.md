@@ -4,6 +4,7 @@
 * Name of company
   
 **Digit.Co**
+![logo]()
  
 * When was the company incorporated?
 
