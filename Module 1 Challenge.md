@@ -4,10 +4,8 @@
 *Name of company
  Digit.CO
  
-*When was the company incorporated?
-Digit is a neobanking platform founded in 2013 that provides its 600,000 paying members with personalized savings, investing and banking tools. Digit members can keep and integrate their existing bank accounts into the platform, or they can make Digit their primary banking relationship by opening new accounts via Digit’s bank partner
-In 2015 the company launched the first truly personalized and automated savings tool.
-
+* When was the company incorporated?
+Digit is a neobanking platform founded in 2013 and in 2015 the company launched the first truly personalized and automated savings tool.
 
 * Who are the founders of the company?
 Ethan Bloch - Founder
@@ -29,7 +27,7 @@ Your funds in Digit are safe and protected, and you can easily move what you've 
 Digit is a company that offers a financial mobile application that analyzes a user's spending habits and saves money automatically for them. Digit is on a mission to make financial health effortless for people
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-
+that provides its 600,000 paying members with personalized savings, investing and banking tools. Digit members can keep and integrate their existing bank accounts into the platform, or they can make Digit their primary banking relationship by opening new accounts via Digit’s bank partner
 Digit looks at a few things when it determines when and how much to save for you:
 •	Linked bank account balance
 •	Upcoming income (paychecks or predicted irregular income)
