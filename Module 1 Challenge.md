@@ -100,3 +100,7 @@
  
 **Real time integration and instant approval**
 
+
+
+## References - https://www.fastcompany.com/40533914/digit-with-1-billion-saved-turns-attention-to-consumer-debt
+https://digit.co/
